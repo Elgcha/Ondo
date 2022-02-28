@@ -7,14 +7,6 @@ http://i6a601.p.ssafy.io/
 
 Ondo(오늘의 도전)
 
-- [와이어 프레임](https://www.notion.so/4892db0a84f14a0ea80f0237e2a43ba5) <br>
-- [기술 스택](https://www.notion.so/285948eaff6943e8a0b1ab121f462b8d)<br>
-- [요구사항 명세서](https://www.notion.so/1c064b49e979488386e3f7f2ff3d433e)<br>
-- [ERD](https://www.erdcloud.com/d/uNBM3PjzYqBmSymfP)<br>
-- [프로토타입](https://www.figma.com/file/GDZM9AklPZrsCaC1AeHYxH/Ondo?node-id=0%3A1)<br>
-- [API](https://www.notion.so/API-1ca45d1fdc95415aac1050bf3f63cb96)
-- [Patch Notes](https://lab.ssafy.com/s06-webmobile2-sub2/S06P12A601/-/wikis/Patch-Notes)
-
 ## 카테고리
 
 | Application | Domain | Language | Framework |
