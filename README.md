@@ -1,5 +1,5 @@
 # Ondo
-http://i6a601.p.ssafy.io/
+~~http://i6a601.p.ssafy.io/~~
 
 ## Preview.
 
